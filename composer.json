@@ -52,7 +52,6 @@
         "symfonycasts/verify-email-bundle": "^1.10",
         "twig/extra-bundle": "^2.12|^3.0",
         "twig/twig": "^2.12|^3.0",
-        "silex/silex": "^2.0.4",
         "doctrine/doctrine-fixtures-bundle": "^3.4",
         "phpunit/phpunit": "^9.5",
         "symfony/browser-kit": "6.0.*",
@@ -116,5 +115,5 @@
             "require": "6.0.*"
         },
         "compile-whitelist": ["retailcrm/api-client-php"]
-    },
+    }
 }
